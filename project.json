@@ -1,7 +1,7 @@
 {
     "name": "Animate",
     "description": "A simple animation module for front-end development.",
-    "version": "1.0",
+    "version": "",
     "main_file": "src/index.js",
     "author": "Lewis Evans",
     "license": "GNU General Public License v3.0",
